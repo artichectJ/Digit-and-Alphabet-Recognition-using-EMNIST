@@ -14,6 +14,7 @@ The model uses the EMNIST Balanced(https://www.nist.gov/itl/products-and-service
  - **Balanced across uppercase/lowercase**
  - Preprocessing includes grayscale normalization and resizing to 28x28
  - Download the matlab zip file
+ - Extract the zip file to the same directory to get the entire EMNIST Dataset
 
 # Tech Stack
 
